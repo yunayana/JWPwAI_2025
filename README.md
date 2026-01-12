@@ -19,7 +19,7 @@ Projekt laboratoryjny realizowany w ramach zajęć akademickich.
 Interaktywne wersje laboratoriów są dostępne online:
 
  **Strona główna projektu (GitHub Pages)**  
-*(wstaw tutaj link do GitHub Pages)*
+*[(link)](https://yunayana.github.io/JWPwAI_2025/)*
 
 Na stronie można:
 - przeglądać gotowe aplikacje,
