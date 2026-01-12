@@ -5,6 +5,7 @@ import InputTracker from './InputTracker';
 import LoginStatus from './LoginStatus';
 import TodoList from './TodoList';
 import LoginForm from './LoginForm';
+import './App.css';
 
 function App() {
    const tasks = ['Zadanie domowe z grafiki', 'Lab z Aplikacji Internetowych', 'Prototyp robota'];
